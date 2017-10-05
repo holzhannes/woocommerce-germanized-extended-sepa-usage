@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Germanized extended SEPA Export usage "
+"value\n"
+"POT-Creation-Date: 2017-10-05 17:28+0200\n"
+"PO-Revision-Date: 2017-10-05 17:50+0200\n"
+"Last-Translator: holzhannes <holzhannes@posteo.de>\n"
+"Language-Team: holzhannes <holzhannes@posteo.de>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woocommerce-germanized-extended-sepa-usage.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: woocommerce-germanized-extended-sepa-usage.php:22
+#, php-format
+msgid "Order %s"
+msgstr "Bestellung %s"
+
+#: woocommerce-germanized-extended-sepa-usage.php:29
+#: woocommerce-germanized-extended-sepa-usage.php:32
+msgid "Period"
+msgstr "Zeitraum"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Germanized extended SEPA Export usage value"
+msgstr "WooCommerce Germanized erweiterter Verwendungszweck"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://github.com/holzhannes/woocommerce-germanized-extended-sepa-usage"
+msgstr ""
+"https://github.com/holzhannes/woocommerce-germanized-extended-sepa-usage"
+
+#. Description of the plugin/theme
+msgid ""
+"This Plugin will change the usage line in the SEPA Export File to: Order #, "
+"item-names, (optional) Period of first item"
+msgstr ""
+"Dieses Plugin ändert den Verwendungszweck in der SEPA-Export-Datei zu: "
+"Bestellung Nr., Artikelnamen, (optional) Zeitraum des Abos des 1. Artikels"
+
+#. Author of the plugin/theme
+msgid "holzhannes"
+msgstr "holzhannes"
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/holzhannes/"
+msgstr "https://github.com/holzhannes/"
